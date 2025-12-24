@@ -1,0 +1,15 @@
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\bin\Debug\net8.0\CS_Static.exe
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\bin\Debug\net8.0\CS_Static.deps.json
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\bin\Debug\net8.0\CS_Static.runtimeconfig.json
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\bin\Debug\net8.0\CS_Static.dll
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\bin\Debug\net8.0\CS_Static.pdb
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\obj\Debug\net8.0\CS_Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\obj\Debug\net8.0\CS_Static.AssemblyInfoInputs.cache
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\obj\Debug\net8.0\CS_Static.AssemblyInfo.cs
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\obj\Debug\net8.0\CS_Static.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\obj\Debug\net8.0\CS_Static.sourcelink.json
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\obj\Debug\net8.0\CS_Static.dll
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\obj\Debug\net8.0\refint\CS_Static.dll
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\obj\Debug\net8.0\CS_Static.pdb
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\obj\Debug\net8.0\CS_Static.genruntimeconfig.cache
+D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\obj\Debug\net8.0\ref\CS_Static.dll

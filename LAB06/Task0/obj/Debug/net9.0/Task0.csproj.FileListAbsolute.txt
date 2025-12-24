@@ -1,0 +1,15 @@
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\bin\Debug\net9.0\Task0.exe
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\bin\Debug\net9.0\Task0.deps.json
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\bin\Debug\net9.0\Task0.runtimeconfig.json
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\bin\Debug\net9.0\Task0.dll
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\bin\Debug\net9.0\Task0.pdb
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\obj\Debug\net9.0\Task0.GeneratedMSBuildEditorConfig.editorconfig
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\obj\Debug\net9.0\Task0.AssemblyInfoInputs.cache
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\obj\Debug\net9.0\Task0.AssemblyInfo.cs
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\obj\Debug\net9.0\Task0.csproj.CoreCompileInputs.cache
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\obj\Debug\net9.0\Task0.sourcelink.json
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\obj\Debug\net9.0\Task0.dll
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\obj\Debug\net9.0\refint\Task0.dll
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\obj\Debug\net9.0\Task0.pdb
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\obj\Debug\net9.0\Task0.genruntimeconfig.cache
+D:\grsu\REPOS\PT_LABS\LAB06\Task0\obj\Debug\net9.0\ref\Task0.dll

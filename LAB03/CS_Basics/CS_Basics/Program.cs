@@ -8,13 +8,13 @@ namespace CS_Basics
         {
             Console.OutputEncoding = UTF8Encoding.UTF8;
             bool exit = false;
-            while (!exit)
+            while (!exit)                 //main цикл
             {
                 Console.Clear();
                 Console.WriteLine("========================================");
                 Console.WriteLine("  Лабораторная работа №3 - CS_Basics");
                 Console.WriteLine("  Основны языка програмирования C#");
-                Console.WriteLine("========================================");
+                Console.WriteLine("========================================");              
                 Console.WriteLine("Блок 1. Переменные и операторы.");
                 Console.WriteLine("Блок 2. Условные операторы.");
                 Console.WriteLine("Блок 3. Циклы.");
@@ -73,7 +73,7 @@ namespace CS_Basics
                     case "2":
                         Console.Write("Введите вес в кг: ");
                         double.TryParse(Console.ReadLine(), out double weight);
-                        Console.Write("Введите роств cm: ");
+                        Console.Write("Введите роств cm: ");                                                            //Рассчётм ИМТ
                         double.TryParse(Console.ReadLine(), out double heightCm);
                         if ((heightCm > 0) && (weight > 0))
                         {
@@ -89,7 +89,7 @@ namespace CS_Basics
                         if (int.TryParse(Console.ReadLine(), out int totalSeconds))
                         {
                             int hours = totalSeconds / 3600;
-                            int minutes = (totalSeconds % 3600) / 60;
+                            int minutes = (totalSeconds % 3600) / 60;                                            //Перевод секунд в формат времени
                             int seconds = totalSeconds % 60;
                             Console.WriteLine($"Результат: {hours:D2}:{minutes:D2}:{seconds:D2}");
                         }
@@ -101,7 +101,7 @@ namespace CS_Basics
                         double.TryParse(Console.ReadLine(), out double price);
                         Console.Write("Введите процент скдики (%): ");
                         double.TryParse(Console.ReadLine(), out double discount);
-                        double finalPrice = price - (price * discount / 100);
+                        double finalPrice = price - (price * discount / 100);                                      //цена со скидкой
                         Console.WriteLine($"Итоговая цена: {finalPrice:F2}");
                         Pause();
                         break;
@@ -144,7 +144,7 @@ namespace CS_Basics
                         if (a + b > c && a + c > b && b + c > a)
                         {
                             if (a == b && b == c) Console.WriteLine("Равносторонний.");
-                            else if (a == b || a == c || b == c) Console.WriteLine("Равнобедренный");
+                            else if (a == b || a == c || b == c) Console.WriteLine("Равнобедренный");           //ОПРЕДЕЛЕНИЕ ТИПА ТРЕУГОЛЬНИКА
                             else Console.WriteLine("Разносторонний");
                         }
                         else
@@ -175,7 +175,7 @@ namespace CS_Basics
                         {
                             case "1": Console.WriteLine($"{amount * 0.011:F2} USD"); break;
                             case "2": Console.WriteLine($"{amount * 0.010:F2} EUR"); break;
-                            case "3": Console.WriteLine($"{amount * 0.0087:F2} GBP"); break;
+                            case "3": Console.WriteLine($"{amount * 0.0087:F2} GBP"); break;                             //КОНВЕРТАЦИЯ ВАЛЮТ
                             default: Console.WriteLine("Неправильный ввод."); break;
                         }
                         Pause();
@@ -211,7 +211,7 @@ namespace CS_Basics
                     case "2":
                         Console.Write("Введите целое: ");
                         int.TryParse(Console.ReadLine(), out int numToReverse);
-                        int reversed = 0;
+                        int reversed = 0;                                                              //Переворот числа
                         int inputCopy = numToReverse;
                         while (inputCopy != 0)
                         {
@@ -226,7 +226,7 @@ namespace CS_Basics
                         int.TryParse(Console.ReadLine(), out int start);
                         Console.Write("Конец (b): ");
                         int.TryParse(Console.ReadLine(), out int end);
-                        bool found = false;
+                        bool found = false;                                                             //max num
                         for (int i = end; i >= start; i--)
                         {
                             if (i % 2 != 0)
@@ -247,7 +247,7 @@ namespace CS_Basics
                         Console.Write("Разница ряда (d): ");
                         double.TryParse(Console.ReadLine(), out double diff);
 
-                        double currentTerm = firstTerm;
+                        double currentTerm = firstTerm;                                                 //Ариф прогр
                         double progressionSum = 0;
                         Console.Write("Ряд: ");
                         for (int i = 0; i < terms; i++)
@@ -272,7 +272,7 @@ namespace CS_Basics
         static void Block4()
         {
             bool back = false;
-            Random rand = new Random();
+            Random rand = new Random();                                            //massiv
             while (!back)
             {
                 Console.Clear();
@@ -296,7 +296,7 @@ namespace CS_Basics
                             Console.WriteLine("Массив: " + string.Join(", ", arr));
 
                             int largest = int.MinValue;
-                            int secondLargest = int.MinValue;
+                            int secondLargest = int.MinValue;                                 
                             foreach (int num in arr)
                             {
                                 if (num > largest)
@@ -366,7 +366,7 @@ namespace CS_Basics
 
                             int maxMain = int.MinValue;
                             int maxSecondary = int.MinValue;
-                            for (int i = 0; i < n; i++)
+                            for (int i = 0; i < n; i++)                                       //Работа с диагоналями матрицы    
                             {
                                 if (matrix[i, i] > maxMain) maxMain = matrix[i, i];
                                 if (matrix[i, n - 1 - i] > maxSecondary) maxSecondary = matrix[i, n - 1 - i];

@@ -1,0 +1,15 @@
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\bin\Debug\net9.0\OOP_RATIONAL.exe
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\bin\Debug\net9.0\OOP_RATIONAL.deps.json
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\bin\Debug\net9.0\OOP_RATIONAL.runtimeconfig.json
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\bin\Debug\net9.0\OOP_RATIONAL.dll
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\bin\Debug\net9.0\OOP_RATIONAL.pdb
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\obj\Debug\net9.0\OOP_RATIONAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\obj\Debug\net9.0\OOP_RATIONAL.AssemblyInfoInputs.cache
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\obj\Debug\net9.0\OOP_RATIONAL.AssemblyInfo.cs
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\obj\Debug\net9.0\OOP_RATIONAL.csproj.CoreCompileInputs.cache
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\obj\Debug\net9.0\OOP_RATIONAL.sourcelink.json
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\obj\Debug\net9.0\OOP_RATIONAL.dll
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\obj\Debug\net9.0\refint\OOP_RATIONAL.dll
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\obj\Debug\net9.0\OOP_RATIONAL.pdb
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\obj\Debug\net9.0\OOP_RATIONAL.genruntimeconfig.cache
+D:\grsu\REPOS\PT_LABS\LAB05\OOP_RATIONAL\obj\Debug\net9.0\ref\OOP_RATIONAL.dll

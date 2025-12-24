@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CS_Static</id>
+    <version>1.0.0</version>
+    <authors>CS_Static</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="cdba03b2dc96de8382794b0884aa6ad6e3a13022" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\bin\Debug\net8.0\CS_Static.runtimeconfig.json" target="lib\net8.0\CS_Static.runtimeconfig.json" />
+    <file src="D:\REPOS\PT_LABS\LAB05\CS_Static\CS_Static\bin\Debug\net8.0\CS_Static.dll" target="lib\net8.0\CS_Static.dll" />
+  </files>
+</package>
